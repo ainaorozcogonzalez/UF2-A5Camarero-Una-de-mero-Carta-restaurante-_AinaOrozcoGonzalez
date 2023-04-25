@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <category name="Entrantes">
+    <dish>
+      <name>Edamame</name>
+      <description>Soja verde cocida al vapor con sal</description>
+      <calorias>120 kcal</calorias>
+      <price> 3.50€</price>
+      <caracteristicas> 
+        <item tipo5="vegano" tipo1="glutenfree"></item>
+      </caracteristicas>
+    </dish>
+    <dish>
+      <name>Gyozas</name>
+      <description>Empanadillas japonesas rellenas de cerdo</description>
+      <calorias>60 kcal/unidad</calorias>
+      <price> 4.50€</price>
+      <caracteristicas> 
+        <item tipo2="carne"></item>
+      </caracteristicas>
+    </dish>
+    <dish>
+      <name>Ensalada Wakame</name>
+      <description>Algas wakame con vinagreta japonesa</description>
+      <calorias>75 kcal</calorias>
+      <price> 5.50€</price>
+      <caracteristicas> 
+        <item tipo5="vegano"></item>
+      </caracteristicas>
+    </dish>
+    <dish>
+      <name>Tempura de Verduras</name>
+      <description>Verduras rebozadas con tempura</description>
+      <calorias>225 kcal</calorias>
+      <price> 6.00€</price>
+      <caracteristicas> 
+        <item tipo5="vegano"></item>
+      </caracteristicas>
+    </dish>
+    <dish>
+      <name>Rollitos Vietnamitas</name>
+      <description>Rollitos de arroz rellenos de verduras y langostinos</description>
+      <calorias>75 kcal</calorias>
+      <price> 6.50€</price>
+      <caracteristicas> 
+        <item tipo3="pescado"></item>
+      </caracteristicas>
+    </dish>
+  </category>
+  <category name="Sushi">
+    <dish>
+      <name>Nigiri Salmón</name>
+      <description>Arroz con salmón fresco encima</description>
+      <calorias>55 kcal/unidad</calorias>
+      <price> 2.00€</price>
+      <caracteristicas> 
+        <item tipo3="pescado"></item>
+      </caracteristicas>
+    </dish>
+    <dish>
+      <name>Maki California</name>
+      <description>Surimi, aguacate, pepino y mayonesa japonesa</description>
+      <calorias>45 kcal</calorias>
+      <price> 4.00€</price>
+      <caracteristicas> 
+        <item tipo1="glutenfree" tipo3="pescado"></item>
+      </caracteristicas>
+    </dish>
+    <dish>
+      <name>Uramaki Spicy Tuna</name>
+      <description>Atún picante, aguacate y pepino por dentro, sésamo por fuera</description>
+      <calorias>200 kcal</calorias>
+      <price> 5.00€</price>
+    </dish>
+    <dish>
+      <name>Sashimi Mixto</name>
+      <description>Selección de sashimi de salmón, atún y pez mantequilla</description>
+      <calorias>135 kcal</calorias>
+      <price>12.00€</price>
+      <caracteristicas> 
+        <item tipo3="pescado"></item>
+      </caracteristicas>
+    </dish>
+    <dish>
+      <name>Futomaki Veggie</name>
+      <description>Roll grande de arroz con verduras y huevo por fuera</description>
+      <calorias>275 kcal</calorias>
+      <price> 8.50€</price>
+    </dish>
+    <dish>
+      <name>Uramaki Rainbow</name>
+      <description>Roll de arroz con variedad de pescado por fuera</description>
+      <calorias>165 kcal</calorias>
+      <price> 9.00€</price>
+      <caracteristicas> 
+        <item tipo3="pescado"></item>
+      </caracteristicas>
+    </dish>
+    <dish>
+      <name>Dragon Roll</name>
+      <description>Roll con anguila, aguacate y mayonesa japonesa</description>
+      <calorias>325 kcal</calorias>
+      <price>11.50€</price>
+      <caracteristicas> 
+        <item tipo3="pescado"></item>
+      </caracteristicas>
+    </dish>
+  </category>
+<category name="Platos Calientes">
+  <dish>
+    <name>Yakitori</name>
+    <description>Brochetas de pollo marinadas en salsa teriyaki</description>
+    <calorias>110 kcal</calorias>
+    <price> 5.00€</price>
+    <caracteristicas> 
+        <item tipo2="carne"></item>
+    </caracteristicas>
+  </dish>
+  <dish>
+    <name>Katsudon</name>
+    <description>Arroz con cerdo empanado y huevo</description>
+    <calorias>325 kcal</calorias>
+    <price> 7.00€</price>
+    <caracteristicas> 
+      <item tipo2="carne"></item>
+    </caracteristicas>
+  </dish>
+  <dish>
+    <name>Tempura de Langostinos</name>
+    <description>Langostinos rebozados con tempura</description>
+    <price> 8.50€</price>
+    <calorias>55 kcal</calorias>
+    <caracteristicas> 
+        <item tipo3="pescado"></item>
+    </caracteristicas>
+  </dish>
+  <dish>
+    <name>Udon</name>
+    <description>Sopa de fideos udon con caldo dashi y verduras</description>
+    <calorias>300 kcal</calorias>
+    <price> 9.00€</price>
+  </dish>
+  <dish>
+    <name>Tonkatsu</name>
+    <description>Cerdo empanado servido con salsa tonkatsu y arroz</description>
+    <calorias>700 kcal</calorias>
+    <price>10.00€</price>
+    <caracteristicas> 
+      <item tipo2="carne"></item>
+    </caracteristicas>
+  </dish>
+  <dish>
+    <name>Curry Japonés</name>
+    <description>Curry japonés con pollo, verduras y arroz</description>
+    <calorias>700 kcal</calorias>
+    <price>11.00€</price>
+    <caracteristicas> 
+      <item tipo2="carne"></item>
+    </caracteristicas>
+  </dish>
+  <dish>
+    <name>Unadon</name>
+    <description>Anguila a la parrilla con arroz y salsa unagi</description>
+    <calorias>900 kcal</calorias>
+    <price>12.50€</price>
+    <caracteristicas> 
+      <item tipo3="pescado"></item>
+    </caracteristicas>
+  </dish>
+</category>
+  <category name="Postres">
+    <dish>
+      <name>Mochi de fresa</name>
+      <description>Pastel de arroz con relleno de fresa</description>
+      <calorias>125 kcal</calorias>
+      <price> 3.00€</price>
+      <caracteristicas> 
+        <item tipo5="vegano" tipo1="glutenfree"></item>
+      </caracteristicas>
+    </dish>
+    <dish>
+      <name>Dorayaki</name>
+      <description>Pastel de alubias rojas con forma de panqueque</description>
+      <calorias>275 kcal</calorias>
+      <price> 3.50€</price>
+      <caracteristicas> 
+        <item tipo5="vegano"></item>
+      </caracteristicas>
+    </dish>
+    <dish>
+      <name>Helado de té verde</name>
+      <description>Helado hecho con té verde matcha</description>
+      <calorias>175 kcal</calorias>
+      <price> 4.00€</price>
+      <caracteristicas> 
+        <item tipo5="vegano" tipo1="glutenfree"></item>
+      </caracteristicas>
+    </dish>
+  </category>
+  <category name="Bebidas">
+    <dish>
+      <name>Té verde</name>
+      <description>Té verde caliente</description>
+      <price> 2.00€</price>
+    </dish>
+    <dish>
+      <name>Sake</name>
+      <description>Bebida alcohólica japonesa hecha de arroz fermentado</description>
+      <calorias>125 kcal</calorias>
+      <price> 5.00€</price>
+      <caracteristicas> 
+        <item tipo4="alcohol"></item>
+      </caracteristicas>
+    </dish>
+    <dish>
+      <name>Refresco</name>
+      <description>Refresco de cola o limón</description>
+      <calorias>125 kcal</calorias>
+      <price> 2.50€</price>      
+    </dish>
+  </category>
+</menu>
